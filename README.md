@@ -14,14 +14,18 @@ http://www.cnblogs.com/yexiaochai/p/3603389.html
 #### 启动步骤
 1. 安装nodeJS，bower
 
-2. 切换到该项目根目录，用命令行(win32)执行：
+2. 安装grunt-cli：
+
+    npm install -g grunt-cli
+
+3. 切换到该项目根目录，用命令行(win32)执行：
 
     npm install
 
-3. 用bower下载需要的前端框架文件(win32)：
+4. 用bower下载需要的前端框架文件(win32)：
 
     bower install
 
-4. 完成。可以开始编写项目代码了。
+5. 完成。可以开始编写项目代码了。
 
-5. 可以根据需要修改Gruntfile.js文件，修改grunt配置。
+6. 可以根据需要修改Gruntfile.js文件，修改grunt配置。
