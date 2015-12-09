@@ -1,9 +1,9 @@
 {
-  "name": "angular--lessons",
-  "description": "Lessons of angular learning.",
+  "name": "front-end template",
+  "description": "front-end template.",
   "main": "app.js",
   "authors": [
-    "Hua Zhang"
+    ""
   ],
   "license": "ISC",
   "keywords": [
