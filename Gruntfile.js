@@ -9,7 +9,7 @@ module.exports = function (grunt) {
             my_target: {
                 files: [{
                     expand: true,
-                    cwd: 'src/js/',
+                    cwd: 'app/js/',
                     src: '*.js',
                     dest: 'dest/js/',
                     rename: function(dest, src) {
