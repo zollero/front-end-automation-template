@@ -7,6 +7,8 @@
 
 其中，package.json是nodeJS的配置文件，bower.json和.bowerrc 是bower的配置文件，Gruntfile.js是grunt自动化工具的配置文件。
 
+参考博文： http://www.cnblogs.com/yexiaochai/p/3603389.html
+
 #### 启动步骤
 1. 安装nodeJS，bower
 
